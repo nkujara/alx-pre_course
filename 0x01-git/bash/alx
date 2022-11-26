@@ -4,3 +4,5 @@ ammend
 
 root@d36e3f3c8514:/alx-pre_course/0x01-git/bash# git add .
 
+#!/bin/bash
+echo "Alx"
